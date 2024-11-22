@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm an undergraduate pursuing a degree in **Electr
 ## 🚀 Projects
 Here are some of the projects I'm currently working on:
 
-### 🌱 [Smart Flower Pot](https://github.com/Vimukthi/Smart-Flower-Pot)
+### 🌱 [Smart Flower Pot](https://github.com/Vimukthixsandeepa/smart-flower-pot)
 An IoT project that monitors temperature, humidity, and soil moisture, and controls watering based on sensor inputs.
 
 ### 📱 [Mobile App for Electricity Monitoring](https://github.com/Vimukthi/Electricity-Monitoring-App)
