@@ -21,12 +21,10 @@ A mobile application to display real-time electricity units used and calculate b
 ### 💡 [ATM Thief Detection System](https://github.com/Vimukthi/ATM-Thief-Detection)
 A machine learning model using YOLO for detecting suspicious behavior around ATM machines.
 
-### 🎮 [Raspberry Pi Game](https://github.com/Vimukthi/Raspberry-Pi-Game)
-A simple game developed using Python and Raspberry Pi to explore GPIO pin functionalities.
+
 
 ## 🌟 Achievements
 - **Contributed to open-source repositories** and maintained a clean commit history.
-- **Published tutorials** on machine learning and IoT development.
 - **Developed and deployed** mobile apps with real-time sensor data monitoring.
 
 ## 📈 GitHub Stats
